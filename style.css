@@ -1,0 +1,60 @@
+.col-6{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.col{
+    height: auto;
+}
+.heading-1,.head-desc{
+    text-align: center;
+}
+.form-border{
+    border: 2px solid black;
+    overflow: hidden;
+}
+.btn-primary{
+    background-color: azure;
+    color: black;
+}
+.rounded-circle{
+    height: 400px;
+    width: 400px;
+}
+.form-control{
+    border: 1px solid black;
+}
+.table,.form-group{
+    border: none;
+}
+.table td, .table th{
+    border: none;
+}
+.col-form-label{
+    text-align: end;
+}
+.form-button{
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+.rounded-circle{
+height: 200px;
+width: 200px;
+
+}
+.img-border{
+border: 2px solid black;
+width: 250px;
+height: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.col-6,.col{
+    background-color:rgba(228, 240, 240, 0.123);
+    padding: 0;
+}
+ 
