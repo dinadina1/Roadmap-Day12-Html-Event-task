@@ -8,5 +8,4 @@
 https://event-form.netlify.app/
 <br><br>
 <h2>Screenshots</h2>
-<img src="https://event-form.netlify.app/" alt="Event-form-screenshot">
 <img src="./images/Event-form-screenshot.png" alt="Event-form-screenshot">
